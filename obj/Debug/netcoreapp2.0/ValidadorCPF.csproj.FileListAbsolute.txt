@@ -1,0 +1,10 @@
+C:\Users\FIC\Desktop\ValidadorCPF\obj\Debug\netcoreapp2.0\ValidadorCPF.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\ValidadorCPF\obj\Debug\netcoreapp2.0\ValidadorCPF.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\ValidadorCPF\obj\Debug\netcoreapp2.0\ValidadorCPF.AssemblyInfo.cs
+C:\Users\FIC\Desktop\ValidadorCPF\bin\Debug\netcoreapp2.0\ValidadorCPF.deps.json
+C:\Users\FIC\Desktop\ValidadorCPF\bin\Debug\netcoreapp2.0\ValidadorCPF.runtimeconfig.json
+C:\Users\FIC\Desktop\ValidadorCPF\bin\Debug\netcoreapp2.0\ValidadorCPF.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\ValidadorCPF\bin\Debug\netcoreapp2.0\ValidadorCPF.dll
+C:\Users\FIC\Desktop\ValidadorCPF\bin\Debug\netcoreapp2.0\ValidadorCPF.pdb
+C:\Users\FIC\Desktop\ValidadorCPF\obj\Debug\netcoreapp2.0\ValidadorCPF.dll
+C:\Users\FIC\Desktop\ValidadorCPF\obj\Debug\netcoreapp2.0\ValidadorCPF.pdb
